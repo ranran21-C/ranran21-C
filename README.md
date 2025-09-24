@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rania Hassani</h1> <h2>👩‍🎓 About Me</h2>
     <ul>
-        <li>🎓 <strong>Junior Computer Science student</strong></li>
+        <li>🎓 <strong>Senior Computer Science student</strong></li>
         <li>🌍 Studied at <strong>Al Akhawayn University (Morocco), Final International University (Cyprus), Fayetteville State University (USA),</strong> and now at <strong>Wayne State College (USA)</strong></li>
         <li>💻 Learning and improving my coding skills every day</li>
         <li>🤔 Interested in <strong>software development, problem-solving, and technology</strong></li>
