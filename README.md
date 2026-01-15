@@ -8,7 +8,7 @@
         <li>📫 How to reach me: <a href="mailto:rahass01@wsc.edu">rahass01@wsc</a></li>
     </ul><h2>🛠️ Skills & Tools</h2>
     <ul>
-        <li><strong>Languages:</strong> Python, Java, C++ ,SQL (Still learning React!)</li>
+        <li><strong>Languages:</strong> Python, Java, C++ ,SQL)</li>
         <li><strong>Basic Web Development:</strong> HtML, CSS</li>
         <li><strong>Tools I use:</strong> VS Code, GitHub, IntelliJ</li>
     </ul> <h2>📌 What I'm Learning</h2>
